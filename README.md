@@ -1,6 +1,6 @@
 # Rust programming language exercises
 
-[![Build Status](https://travis-ci.org/peterpalau/rust-exercises.svg?branch=master)](https://travis-ci.org/peterpalau/rust-exercises)
+[![Build Status](https://travis-ci.org/peterpalau/rust-exercises.svg?branch=master)](https://travis-ci.org/peterpalau/rust-exercises) [![GitHub license](https://img.shields.io/github/license/peterpalau/rust-exercises.svg)](https://github.com/peterpalau/rust-exercises/blob/master/LICENSE)
 
 This repository contains some exercises implementations and code exploration for the `rust` language.
 

@@ -6,6 +6,8 @@ This repository contains some exercises implementations and code exploration for
 
 For executing the exercises, is required to have installed [rust](https://www.rust-lang.org/tools/install) on your system.
 
+- [Using Rust default build system](#installing-rust-on-macos-linux-or-another-unix-like-os)
+- [Using Cargo build system](#using-cargo)
 
 ### Installing Rust on macOS, Linux or another Unix-like OS
 
@@ -28,7 +30,7 @@ $ ./filename
 
 ### Using Cargo
 
-Cargo is Rust’s build system and package manager.
+[Cargo](https://doc.rust-lang.org/book/ch01-01-installation.html#installation) is Rust’s build system and package manager.
 
 #### Building and running a Cargo project
 
